@@ -1,7 +1,8 @@
 # 🎓 FIAP — Análise e Desenvolvimento de Sistemas
 
 <!-- Adicione sua imagem de cabeçalho aqui -->
-<!-- ![header](./assets/header.png) -->
+
+<img style="width: 1000px;" src="img.webp">
 
 Repositório com todos os projetos e atividades desenvolvidos durante a graduação em **Análise e Desenvolvimento de Sistemas** na FIAP.
 
@@ -65,5 +66,5 @@ fiap-repo/
 
 Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com foco em **Engenharia de Dados**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joanacarol)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/joanacarol)
